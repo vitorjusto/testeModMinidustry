@@ -1,0 +1,16 @@
+{
+    type: Block
+    size: 1,
+	health: 200,
+	menu: simple,
+	haspower: true,
+	powerCapacity: 2,
+	hasShadow: true,
+	itemCapacity: 100,
+	buildCostMultiplier: 70,
+	drawer: [
+        {
+            type: "DrawRegion"
+        }
+    ],
+}
