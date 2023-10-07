@@ -1,3 +1,12 @@
 {
-    type: multicraft.MultiCrafter
+    type: LightBlock
+	health: 100
+	requirements: [
+        "copper/1"
+    ]
+	consumes: {
+  		power: 0.4
+	}
+	buildCostMultiplier: 20,
+	category: "liquid"
 }
