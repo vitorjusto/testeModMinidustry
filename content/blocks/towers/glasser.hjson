@@ -21,7 +21,7 @@
         collidesAir: true
         collidesGround:	true
         trailColor:	aaaaaaaa
-        homingPower: 0.5	Power of bullet ability. Usually a number between 0 and 1; try 0.1 as a starting point.
+        homingPower: 0.5
         lightOpacity: 0.5
         lightColor:	ffffffff
     }
