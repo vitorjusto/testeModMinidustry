@@ -1,0 +1,7 @@
+{
+    type: "CoreBlock",
+    size: 2,
+    
+	health: 2000,
+	
+}
