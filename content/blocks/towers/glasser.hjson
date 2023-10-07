@@ -7,7 +7,7 @@
     ]
     
     range: 100,
-    reload: 40,
+    reload: 30,
 	health: 100,
 	outlineRadius: 0,
 

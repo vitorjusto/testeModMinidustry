@@ -1,7 +1,7 @@
-name: "modTeste"
-displayName: "This isn't a mod."
-author: Yourself
-description: "Bbfashbjhcbabfhsbafbhajbf"
+name: "More Things"
+displayName: "This mod add a tons of things"
+author: Vitorjusto
+description: ""
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
