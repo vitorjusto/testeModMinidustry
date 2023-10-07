@@ -3,7 +3,7 @@
     size: 2,
     outputsPower: true,
     conductivePower: true,
-    itemCapacity = 1000,
+    itemCapacity: 1000,
 
 	health: 2000,
 	
