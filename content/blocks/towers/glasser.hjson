@@ -1,0 +1,28 @@
+{
+    type: "PowerTurret",
+    category: "turret",
+    size: 1,
+    requirements: [ 
+		"metaglass/20"
+    ]
+    
+    range: 100,
+    reload: 4,
+	health: 100,
+	outlineRadius: 0,
+
+    shootType: {
+        lifetime:	40.0
+        speed:	1.0	
+        damage:	2.0	
+        hitSize: 3.0
+        drawSize: 40.0
+        collidesTiles: false
+        collidesAir: true
+        collidesGround:	true
+        trailColor:	aaaaaaaa
+        homingPower: 0.5	Power of bullet ability. Usually a number between 0 and 1; try 0.1 as a starting point.
+        lightOpacity: 0.5
+        lightColor:	ffffffff
+    }
+}
