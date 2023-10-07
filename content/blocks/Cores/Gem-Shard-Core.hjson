@@ -1,5 +1,5 @@
 {
-    type: "CoreBlock, PowerGenerator",
+    type: "CoreBlock",
     size: 2,
     outputsPower: true,
     conductivePower: true,
