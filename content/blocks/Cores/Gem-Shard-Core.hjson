@@ -1,7 +1,10 @@
 {
-    type: "CoreBlock",
+    type: "CoreBlock, PowerGenerator",
     size: 2,
-    
+    outputsPower: true,
+    conductivePower: true,
+    itemCapacity = 1000,
+
 	health: 2000,
 	
 }
